@@ -1,0 +1,23 @@
+{
+  "name": "websiteundercons",
+  "version": "1.0.0",
+  "description": "\"# websiteunderconstruction\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/probiecoder913/websiteunderconstruction.git"
+  },
+  "author": "Ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/probiecoder913/websiteunderconstruction/issues"
+  },
+  "homepage": "https://github.com/probiecoder913/websiteunderconstruction#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
